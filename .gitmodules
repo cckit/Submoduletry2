@@ -1,0 +1,3 @@
+[submodule "static/platform"]
+	path = static/platform
+	url = git@github.com:nwoedf/Submoduletry.git
